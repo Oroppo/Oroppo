@@ -1,9 +1,9 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Oroppo?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/oroppo?style=social"> &nbsp;&nbsp; <img alt="Oroppo | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Dante Arruda** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Dante Arruda** <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF5bG1lYWxoYW40ZHRtanJwNnhvdWcyd29tNHVvZ250MW5ydzBteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="400" align="right"/>
 - :school: I'm currently 4th year student at **Ontario Tech University**
 - :books: My major is **Game Development & Entrepreneurship**
 - :earth_asia: I'm living now in **Ontario, Canada**
@@ -12,7 +12,7 @@
 - :sunglasses: My quote is *"There are two kinds of people in the world, ***Strive to be the third***"*
 - :ok_hand: Fun fact: I founded a corporation in 2022!
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZkM2M4MGh2aGFxYnRpcTVjZXZlM3h2cmkxaG1nZXNtNGlrNWVjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pULj9CGmIcfuzXTPfp/giphy.gif" width="50px"> Welcome!
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzAyMjAycWwwaWgzanF6Nzc5cGZscHZpbjVucDhjdHFsbWd3N280cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10t57cXgo7x5kI/giphy.gif" width="50px"> Welcome!
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
