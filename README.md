@@ -19,8 +19,8 @@
 
 ## <img src="https://giphy.com/gifs/CoachJoshWood-pULj9CGmIcfuzXTPfp" width="50px"> Some Stats for you
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oroppo&layout=compact&show_icon=true&theme=algolia" alt="oroppo-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=oroppo&layout=compact&show_icon=true&theme=algolia" alt="oroppo-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Oroppo-tn&theme=algolia&background=0d1117&hide_border=true" />
