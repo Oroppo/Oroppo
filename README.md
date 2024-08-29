@@ -17,14 +17,14 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## <img src="https://giphy.com/gifs/CoachJoshWood-pULj9CGmIcfuzXTPfp" width="50px"> Some Stats for you
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M4NmV3ankxbTh2bWdlaXlhMnJmd2dyaWN1bWxicTVoZm9hNDh6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pULj9CGmIcfuzXTPfp/giphy.gif" width="50px"> Some Stats for you
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oroppo&layout=compact&show_icon=true&theme=algolia" alt="oroppo-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=oroppo&layout=compact&show_icon=true&theme=algolia" alt="oroppo-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Oroppo-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Oroppo-tn&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Oroppo&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Oroppo&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
